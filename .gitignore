@@ -1,0 +1,6 @@
+build/
+skin/cut2*.png
+skin/skin2.png
+__pycache__/
+*.pyc
+music/bgm_psych.mp3
